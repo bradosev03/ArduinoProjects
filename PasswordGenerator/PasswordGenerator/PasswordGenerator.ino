@@ -1,5 +1,5 @@
 /*
- * Author: go25H3LL
+ * Author: bradosev
  * Project: Passcode Generator
  * Date: Feb 17, 2018
  */
